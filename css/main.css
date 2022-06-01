@@ -18,3 +18,12 @@ max-width: 1170px;
 .section {
     display: flex;
 }
+.flex {
+    display: flex;
+}
+.flex-column {
+    flex-direction: column;
+}
+.flex-one {
+    flex: 1;
+}
