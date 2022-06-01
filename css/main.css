@@ -27,3 +27,12 @@ max-width: 1170px;
 .flex-one {
     flex: 1;
 }
+.align-center {
+    align-items: center;
+}
+.center {
+    justify-content: center;
+}
+.space-between {
+    justify-content: space-between;
+}
