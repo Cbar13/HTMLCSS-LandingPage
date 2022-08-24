@@ -128,3 +128,16 @@ section {
     padding: 6px 12px;
     border: solid 1px #a0a0a0;
 }
+.search-button {
+    background-color: #a0a0a0;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border: 0;
+    padding: 0;
+}
+.nav-list {
+    padding-left: 0;
+    width: 575px;
+    margin-top: 10px;
+}
