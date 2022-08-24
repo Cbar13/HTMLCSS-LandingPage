@@ -122,3 +122,9 @@ section {
     max-width: 100%;
     height: auto;
 }
+.search-box {
+    width: 330px;
+    height: 30px;
+    padding: 6px 12px;
+    border: solid 1px #a0a0a0;
+}
