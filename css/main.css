@@ -238,8 +238,8 @@ section {
     line-height: 1;
 }
 .full-banner {
-    padding: 0, 15px;
-    margin: 50px, 0;
+    padding: 0 15px;
+    margin: 50px 0;
     position: relative;
 }
 .full-banner:before {
@@ -251,4 +251,5 @@ section {
     left: 50px;
     right: 50px;
     z-index: 1;
+    flex: 0, ;
 }
